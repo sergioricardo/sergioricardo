@@ -1,4 +1,5 @@
 ## Oi pessoal! 👋
+# se quiser me encontrar, estou nesses endereços abaixo:
 
 <!--
 **sergioricardo/sergioricardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
